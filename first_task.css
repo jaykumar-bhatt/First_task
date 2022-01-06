@@ -1,0 +1,95 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.head{
+    background-image: url("image2.jpg");
+    background-size: 100% 100%;
+    height: 80vh;
+}
+.firstline{
+    font-weight: bolder;
+    padding-top: 50px;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+.secondline{
+    font-weight: bolder;
+    padding: 20px;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+.links{
+    margin-top:28px;
+    padding: 45px;
+}
+.links>a{
+    margin: auto;
+}
+.material-icons{
+    font-size: 50px;
+    margin-right:20px ;
+    border: 1px solid white;
+    margin-left:20px ;
+    color: white;
+}
+.menu{
+    padding-top: 25px;
+}
+.mid{
+    width: 80%;
+    height: 500px;
+    margin: 50px auto 50px auto;
+}
+.right{
+    width: 40%;
+    height: 500px;
+    float: right;
+    background-image: url("image3.jfif");
+    background-size: 100% 100%;
+}
+.left{
+    width: 60%;
+    height: 500px;
+    float: left;
+}
+.twolink{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.thirdline{
+    font-weight: bolder;
+    padding-top: 50px;
+    font-size: 40px;
+}
+.outline{
+    border: 1px solid black;
+}
+.fest{
+    background: black;
+    height: 300px;
+    width: 100%;
+    margin:50px auto 50px auto;
+    color: white;
+}
+.festtext{
+    font-size: 50px;
+    margin-left: 400px;
+}
+.festtext2{
+    font-size: 20px;
+    margin-left: 688px;
+}
+.menu>a>.material-icons{
+    color: blue;
+    margin-top: 23px;
+}
+.menu>a{
+    text-decoration: none;
+}
+span>h6{
+    display: inline-block;
+}
