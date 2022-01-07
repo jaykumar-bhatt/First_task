@@ -34,6 +34,7 @@ body{
     border: 1px solid white;
     margin-left:20px ;
     color: white;
+    border-radius: 10px;
 }
 .menu{
     padding-top: 25px;
@@ -47,7 +48,8 @@ body{
     width: 40%;
     height: 500px;
     float: right;
-    background-image: url("image3.jfif");
+    background-image: url("image5.jpg");
+    border-radius: 10px;
     background-size: 100% 100%;
 }
 .left{
